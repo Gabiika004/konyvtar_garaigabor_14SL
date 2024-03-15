@@ -1,0 +1,22 @@
+E:\Petrik2023\CsharpProjects\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Petrik2023\CsharpProjects\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+E:\Petrik2023\CsharpProjects\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+E:\Petrik2023\CsharpProjects\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+E:\Petrik2023\CsharpProjects\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+E:\Petrik2023\CsharpProjects\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+E:\Petrik2023\CsharpProjects\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+E:\Petrik2023\CsharpProjects\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+E:\Petrik2023\CsharpProjects\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+E:\Petrik2023\CsharpProjects\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\UserEmailWindow .g.cs
+E:\Petrik2023\CsharpProjects\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Petrik2023\CsharpProjects\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\UserEmailWindow .baml
+E:\Petrik2023\CsharpProjects\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+E:\Petrik2023\CsharpProjects\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Petrik2023\CsharpProjects\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+E:\Petrik2023\CsharpProjects\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+E:\Petrik2023\CsharpProjects\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+E:\Petrik2023\CsharpProjects\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+E:\Petrik2023\CsharpProjects\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+E:\Petrik2023\CsharpProjects\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+E:\Petrik2023\CsharpProjects\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+E:\Petrik2023\CsharpProjects\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
